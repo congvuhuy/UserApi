@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\congv\\Desktop\\apiUser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240804140937_db_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apiUser\\Migrations\\20240804140937_db_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\dal\\model\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\dal\\model\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\migrations\\20240803161154_db_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\migrations\\20240803161154_db_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\dal\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\dal\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\dal\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\dal\\model\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240803071320_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:apiUser\\Migrations\\20240803071320_db1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|c:\\users\\congv\\desktop\\apiuser\\apiuser\\apiuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1534E49E-4916-42F8-93AD-0F042EB3EB81}|apiUser\\apiUser.csproj|solutionrelative:apiuser\\apiuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "apiUser\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Controller\\UserController.cs",
+              "RelativeToolTip": "apiUser\\Controller\\UserController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:09:44.209Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240804140937_db_v3.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240804140937_db_v3.cs",
+              "RelativeDocumentMoniker": "apiUser\\Migrations\\20240804140937_db_v3.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240804140937_db_v3.cs",
+              "RelativeToolTip": "apiUser\\Migrations\\20240804140937_db_v3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:09:37.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "apiUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "apiUser\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:04:17.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240803161154_db_v2.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240803161154_db_v2.cs",
+              "RelativeDocumentMoniker": "apiUser\\Migrations\\20240803161154_db_v2.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240803161154_db_v2.cs",
+              "RelativeToolTip": "apiUser\\Migrations\\20240803161154_db_v2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:50:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Model\\User.cs",
+              "RelativeDocumentMoniker": "apiUser\\DAL\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Model\\User.cs",
+              "RelativeToolTip": "apiUser\\DAL\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:01:44.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Model\\Address.cs",
+              "RelativeDocumentMoniker": "apiUser\\DAL\\Model\\Address.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Model\\Address.cs",
+              "RelativeToolTip": "apiUser\\DAL\\Model\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:02:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Model\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "apiUser\\DAL\\Model\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Model\\PhoneNumber.cs",
+              "RelativeToolTip": "apiUser\\DAL\\Model\\PhoneNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:01:56.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "apiUser\\DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "apiUser\\DAL\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:17:43.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "apiUser\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\appsettings.Development.json",
+              "RelativeToolTip": "apiUser\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T07:13:59.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\appsettings.json",
+              "RelativeDocumentMoniker": "apiUser\\appsettings.json",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\appsettings.json",
+              "RelativeToolTip": "apiUser\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T13:51:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Program.cs",
+              "RelativeDocumentMoniker": "apiUser\\Program.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Program.cs",
+              "RelativeToolTip": "apiUser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:16:33.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "apiUser\\DAL\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "apiUser\\DAL\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:12:08.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "apiUser\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Service\\IUserService.cs",
+              "RelativeToolTip": "apiUser\\Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:17:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "apiUser\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Service\\UserService.cs",
+              "RelativeToolTip": "apiUser\\Service\\UserService.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAowIUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:12:14.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiUser\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiUser\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T02:34:05.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "apiUser\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "apiUser\\DAL\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:10:25.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240803071320_db1.cs",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240803071320_db1.cs",
+              "RelativeDocumentMoniker": "apiUser\\Migrations\\20240803071320_db1.cs",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\Migrations\\20240803071320_db1.cs",
+              "RelativeToolTip": "apiUser\\Migrations\\20240803071320_db1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:13:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "apiUser.csproj",
+              "DocumentMoniker": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\apiUser.csproj",
+              "RelativeDocumentMoniker": "apiUser\\apiUser.csproj",
+              "ToolTip": "C:\\Users\\congv\\Desktop\\apiUser\\apiUser\\apiUser.csproj",
+              "RelativeToolTip": "apiUser\\apiUser.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T02:01:05.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

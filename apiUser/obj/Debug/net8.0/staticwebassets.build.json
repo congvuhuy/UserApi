@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pCYn8Rjsl0bXG3hmh2cFnPXXHrgkaBoY+MdZD7u21Z4=",
+  "Source": "apiUser",
+  "BasePath": "_content/apiUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
